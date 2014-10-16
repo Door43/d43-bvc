@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bvc:home|Door43 (bvc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bvc|d43-bvc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bvc/archive/master.zip|d43-bvc.zip]]
+
+**Recent Changes**
+{{changes>ns = bvc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bvc|Ethnologue data]]
+
